@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 
+👋 Hi, I’m Yasmeen Khan
+👀 I’m interested in Data analytics and Python Programing
+🌱 I’m currently learning Data Science AIML & Deep learning
+💞️ I’m looking to collaboration on Data Analytics AIML and Deep learning
+📫 How to reach me (yasmeenkhan99207@gmail.com)
 
 <!--
 **khanYasmeen/khanYasmeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
