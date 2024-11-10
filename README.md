@@ -1,9 +1,9 @@
 ## Hi there 👋 
 - 👋 Hi, I’m Yasmeen Khan
 - 👀 I’m interested in Data analytics and Python Programming
-- 🌱 I’m currently learning Data Science AIML & Deep learning
+- 🌱 I’m currently learning Data Science AI /ML & Deep learning
 - 💞️ I’m looking to collaboration on Data Analytics AIML and Deep learning
-- 📫 How to reach me (yasmeenkhan99207@gmail.com)
+- 📫 To reach me (yasmeenkhan99207@gmail.com)
 
 
 <!--
